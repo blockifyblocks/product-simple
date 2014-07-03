@@ -1,0 +1,7 @@
+{
+  "name": "product-simple",
+  "description": "Simple product block.",
+  "template": {
+    "@type": "Product"
+  }
+}
